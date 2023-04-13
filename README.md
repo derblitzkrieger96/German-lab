@@ -1,6 +1,7 @@
 # German Learning Website
 
 This is a simple website created to learn Bootstrap. It's not meant to be a fully-functional German learning website, but rather a project to practice using Bootstrap.
+https://german-lab.netlify.app/
 
 ## Features
 
